@@ -96,9 +96,9 @@
             this.lblSum.AutoSize = true;
             this.lblSum.Location = new System.Drawing.Point(313, 186);
             this.lblSum.Name = "lblSum";
-            this.lblSum.Size = new System.Drawing.Size(161, 13);
+            this.lblSum.Size = new System.Drawing.Size(158, 13);
             this.lblSum.TabIndex = 6;
-            this.lblSum.Text = "Click the Button to Add Numbers";
+            this.lblSum.Text = "Click the thingy to Add Numbers";
             // 
             // Form1
             // 
