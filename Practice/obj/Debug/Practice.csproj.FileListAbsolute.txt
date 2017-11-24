@@ -1,0 +1,10 @@
+C:\Users\SaruKuroi\Desktop\COMP1030 - Programing\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\SaruKuroi\Desktop\COMP1030 - Programing\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\SaruKuroi\Desktop\COMP1030 - Programing\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\SaruKuroi\Desktop\COMP1030 - Programing\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\SaruKuroi\Desktop\COMP1030 - Programing\Practice\Practice\obj\Debug\Practice.Form1.resources
+C:\Users\SaruKuroi\Desktop\COMP1030 - Programing\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\SaruKuroi\Desktop\COMP1030 - Programing\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.Cache
+C:\Users\SaruKuroi\Desktop\COMP1030 - Programing\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\SaruKuroi\Desktop\COMP1030 - Programing\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\SaruKuroi\Desktop\COMP1030 - Programing\Practice\Practice\obj\Debug\Practice.pdb
